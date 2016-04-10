@@ -22,6 +22,11 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	Branches help when you want to work on separate distinct versions of the code
+	set. Experimental changes to potentilay be discarded, or a more permanent version
+	like a language localization are two examples. You can segagrate changes for
+	eventual merging, or maintain separate lines with shared logic in parpituity.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
