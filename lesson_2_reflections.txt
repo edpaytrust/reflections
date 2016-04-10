@@ -39,5 +39,10 @@ the diagram the way we do?
 	lets you see the series of changes on the branch, the log co-mingles based
 	on timestamp.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually? 
+
+	In automatic merging simple non-conflicting changes can be easily integrated.
+	Complex changes will require manual intervention to resolve. Manual-only merging
+	will never obscure changes or have the risk of guessing wrong, and can spot things
+	git would miss like two functions to do the same thing independantly introduced.
