@@ -35,5 +35,9 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The changes from each branch are combined into a unified version. The diagram
+	lets you see the series of changes on the branch, the log co-mingles based
+	on timestamp.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually? 
